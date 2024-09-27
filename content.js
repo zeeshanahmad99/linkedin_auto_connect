@@ -43,5 +43,4 @@ async function autoConnect() {
   }
 }
 
-autoConnect()
-
+window.autoConnect = autoConnect
